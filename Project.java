@@ -1,5 +1,5 @@
 package AbstractAndTasksInTeam;
-
+// this show the useful of abstract class to share the tasks between the IT
 public abstract class Project {
 	String name  ;
 	
